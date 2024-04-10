@@ -1,5 +1,5 @@
 <h2>Conversor de Moedas</h2>
-<h4> Realização de um Conversor de Moedas, desafio proposto pelo DevClub. Este projeto envolveu a utilização de tecnologias HTML, CSS e JavaScript🚀</h4>
+<h4> Realização de um Conversor de Moedas. Este projeto envolveu a utilização de tecnologias HTML, CSS e JavaScript🚀</h4>
 
 <h4> O desafio proposto tinha como objetivo fazer a conversão da moeda Real Brasileiro para outras 4 moedas( dolar americano, libra esterlina, euro e bitcoin), utilizando a linguagem de programação Javascript </h4>
 
