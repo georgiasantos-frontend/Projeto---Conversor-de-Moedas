@@ -1,17 +1,44 @@
-<h2>Conversor de Moedas</h2>
-<h4> Realização de um Conversor de Moedas. Este projeto envolveu a utilização de tecnologias HTML, CSS e JavaScript🚀</h4>
+<h1>Conversor de Moeda</h1>
 
-<h4> O desafio proposto tinha como objetivo fazer a conversão da moeda Real Brasileiro para outras 4 moedas( dolar americano, libra esterlina, euro e bitcoin), utilizando a linguagem de programação Javascript </h4>
+<p>Este é um projeto simples de um conversor de moeda desenvolvido com HTML, CSS e JavaScript. O objetivo deste projeto é fornecer uma ferramenta fácil de usar para converter valores entre diferentes moedas em tempo real.</p>
+<br>
+<h2>Funcionalidades:</h2>
+<ul>
+<li>Conversão de moeda em tempo real.</li>
+<li>Interface de usuário responsiva e amigável.V
+<li>Suporte para várias moedas.</li>
+<li>Atualização dinâmica das taxas de câmbio utilizando uma API de câmbio.</li>
+</ul>
+<br>
+<h2>Tecnologias Utilizadas:</h2>
+<ul>
+<li><b>HTML5:</b> Estrutura do aplicativo.</li>
+<li><b>CSS3:</b> Estilização e design responsivo.</li>
+<li><b>JavaScript:</b> Lógica do aplicativo e integração com API.</li>
+  </ul>
+  <br>
 
-<h3> 💻Tecnologias utilizadas:</h3>
-<p>- HTML</p>
-<p>-CSS</p>
-<p>-JavaScript</p>
+<h3>Capturas de Tela</h3>
+
+
+
+<h3>Como Usar</h3>
+
+<h4>1. Clone o repositório:</h4>
+
+
+<p>git clone https://github.com/georgiasantos-frontend/conversor-de-moeda.git</p>
+
+<h4>2. Navegue até o diretório do projeto:</h4>
+
+<p>cd conversor-de-moeda</p>
+
+
+<h4>3. Abra o arquivo index.html no seu navegador.</h4>
 
 Fiquem ligados para mais atualizações e insights sobre minha jornada profissional!
 <br>
 
-<br>
 
 <p float="center">
 
